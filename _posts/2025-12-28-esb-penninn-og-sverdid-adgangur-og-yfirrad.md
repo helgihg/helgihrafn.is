@@ -3,6 +3,7 @@ layout: post
 title: "ESB: Penninn og sverðið, að­gangur og yfir­ráð"
 tags: ["evrópusambandið"]
 author: Helgi Hrafn Gunnarson
+first_url: https://www.visir.is/g/20252822325d/esb-penninn-og-sverdid-ad-gangur-og-yfir-rad
 ---
 Þann 26. desember 2025 birtist grein á Vísi.is eftir Hjört J. Guðmundsson, sagnfræðing og alþjóðastjórnmálafræðing, sem nefnist „Fleiri ásælast Grænland en Trump“.[^1] Í stað þess að rekja punkt hennar nákvæmlega og mistúlka eitthvað í óvarlegri endursögn, legg ég til að lesendur lesi grein hans, enda er hún stutt og skorinort.
 

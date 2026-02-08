@@ -3,6 +3,7 @@ layout: post
 title: Upplýsingahernaður
 tags: [lýðræði, vitsmunahyggja]
 author: Helgi Hrafn Gunnarsson
+first_url: https://www.visir.is/g/20252671812d/upplysingahernadur
 ---
 Það er upplýsingastríð í gangi sem almenningi er mestmegnis ósýnilegt, þótt almenningur sé sjálfur fórnarlambið.
 
