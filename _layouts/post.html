@@ -50,6 +50,14 @@ layout: base
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
         </div>
+        {% if page.first_url %}
+          <small>
+            <em>
+              Þessi skrif birtust fyrst hér:
+              <a target="_blank" href="{{ page.first_url }}">{{ page.first_url }}</a>
+            </em>
+          </small>
+        {% endif %}
       {% endif %}
 
       {% if page.after-content %}
