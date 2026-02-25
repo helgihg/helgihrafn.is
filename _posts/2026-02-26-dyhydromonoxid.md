@@ -10,7 +10,7 @@ Díhýdrómónóxíð er stórhættulegt, kemískt efni, mikið notað í iðna�
 
 Þrátt fyrir óumdeilda skaðsemina myndu fjölþjóðleg stórfyrirtæki aldrei leyfa því að gerast, að þetta efni yrði bannað. Hvers vegna ekki? Vegna þess að þá myndu þau ekki græða jafn mikla peninga.
 
-Lítum bara aðeins á efnafræðina til að glöggva okkur á skaðseminni til fullnustu. Í "dýhýdró" er "dí" fyrir "tvo", "hýdró" vísar til vetniseindar og "mónóxíð" er "mónó-oxíð" og vísar til einnar súrefniseindar. Efnafræðilega formúlan er því eitt H, síðan tölustafurinn 2 til að tákna tvö slík, og síðan eitt O. Há-tveir-o, sennilega frægasta efnaformúla í heimi. Ég er sem sagt að tala um vatn.
+Lítum bara aðeins á efnafræðina til að glöggva okkur á skaðseminni til fullnustu. Í „dýhýdró“ er „dí“ fyrir „tvo“, „hýdró“ vísar til vetniseindar og „mónóxíð“ er „mónó-oxíð“ og vísar til einnar súrefniseindar. Efnafræðilega formúlan er því eitt H, síðan tölustafurinn 2 til að tákna tvö slík, og síðan eitt O. Há-tveir-o, sennilega frægasta efnaformúla í heimi. Ég er sem sagt að tala um vatn.
 
 Allt sem er skrifað í þessum pistli um þetta efni er satt. Ekki eina einustu rangfærslu er að finna um skaðsemi efnisins eða hlut þess í umhverfinu. En skrifin hljómuðu samt eins og að um hræðilegan hlut væri að ræða, vegna þess að þau voru skrifuð markvisst og meðvitað í þeim tilgangi að vekja ótta.
 
