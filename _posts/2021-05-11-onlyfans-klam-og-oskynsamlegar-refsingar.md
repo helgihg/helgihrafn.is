@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OnlyFans, klám og óskynsamlegar refsingar
-tags: ["tjáningar- og upplýsingafrelsi", "kynlífsvinna"]
+tags: ["tjáningar- og upplýsingafrelsi", "kynlífsvinna", "frelsi"]
 author: Helgi Hrafn Gunnarsson
 first_url: https://www.visir.is/g/20212107920d
 ---
