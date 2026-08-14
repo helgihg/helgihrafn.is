@@ -1,0 +1,12 @@
+name: helgihrafn
+namespace: prod-helgihrafn
+replicaCount: 1
+
+image:
+  repository: ghcr.io/helgihg/helgihrafn.is
+  tag: latest
+  pullPolicy: Always
+
+ingress:
+  className: traefik
+  host: helgihrafn.is
