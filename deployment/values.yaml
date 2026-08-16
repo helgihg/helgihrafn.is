@@ -10,3 +10,6 @@ image:
 ingress:
   className: traefik
   host: helgihrafn.is
+  tls:
+    issuer: letsencrypt-staging
+    secretName: helgihrafn-tls
