@@ -7,3 +7,14 @@ spec:
   redirectScheme:
     scheme: https
     permanent: true
+---
+apiVersion: traefik.io/v1alpha1
+kind: Middleware
+metadata:
+  name: {{ .Values.name }}-to-www
+  namespace: {{ .Values.namespace }}
+spec:
+  redirectRegex:
+    regex: ^https?://{{ .Values.ingress.host }}/(.*)
+    replacement: https://www.{{ .Values.ingress.host }}/${1}
+    permanent: true
