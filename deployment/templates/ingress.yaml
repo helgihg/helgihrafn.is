@@ -5,6 +5,7 @@ metadata:
   namespace: {{ .Values.namespace }}
   annotations:
     cert-manager.io/cluster-issuer: {{ .Values.ingress.tls.issuer }}
+    traefik.ingress.kubernetes.io/router.middlewares: {{ .Values.namespace }}-{{ .Values.name }}-https-redirect@kubernetescrd
 spec:
   ingressClassName: {{ .Values.ingress.className }}
   tls:
