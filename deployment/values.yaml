@@ -11,5 +11,5 @@ ingress:
   className: traefik
   host: helgihrafn.is
   tls:
-    issuer: letsencrypt-staging
+    issuer: letsencrypt-prod
     secretName: helgihrafn-tls
